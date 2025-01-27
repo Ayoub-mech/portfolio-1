@@ -108,32 +108,20 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Abdelkader MeZouari",
+    title: "Professor in ESTK",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Ayoub Mechboukh is one of the most skilled and dependable software engineers I've had the privilege of knowing. His expertise in designing efficient, scalable systems is matched by his ability to understand client needs and deliver beyond expectations. Ayoub's work on solutions like 'Tarsheed' and 'Irrignov' exemplifies his drive to create impactful technologies. He is a forward-thinker, always staying ahead of industry trends, and his enthusiasm for innovation inspires everyone around him.",
+    name: "Mohamed Afassi",
+    title: "R&D System-On-Chip Hardware Verification Engineer",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Ayoub Mechboukh is an exceptionally talented software engineer whose dedication and expertise are evident in every project he undertakes. Whether it's designing innovative solutions like 'Irrignov' or automating complex tasks with precision, Ayoub consistently demonstrates a deep understanding of technology and an ability to turn ideas into reality. His ability to solve challenges creatively while maintaining a strong work ethic makes him a valuable asset to any team.",
+    name: "Achraf Cheniguer",
+    title: "Engineer in Industry 4.0",
   },
 ];
 
